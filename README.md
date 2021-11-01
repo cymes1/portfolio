@@ -1,5 +1,11 @@
 # portfolio
+Those are projects that I have participated in.
 
+Rover Mechanic Simulator
+https://store.steampowered.com/app/864680/Rover_Mechanic_Simulator/?curator_clanid=35304179
+
+Zookeeper Demo</br>
+https://store.steampowered.com/app/1027810/ZooKeeper/?curator_clanid=35304179
 
 Perfumery Tycoon: mobilna gra typu clicker</br>
 https://apps.apple.com/pl/app/perfumery-idle-tycoon/id1459102133?l=pl
